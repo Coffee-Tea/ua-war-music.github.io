@@ -1,7 +1,6 @@
-## Рускій воєнний корабль, іді нахуй
-#russiaInvadesUkraine
+## Рускій воєнний корабль, іді нахуй #russiaInvadesUkraine
 
-Український Визвольно-Воєнний Музичний Збірник
+Українська Визвольно-Воєнна Музика - [Playlist Youtube](https://www.youtube.com/watch?v=tgbCrSimQDQ&list=PLwyoJhmuKwgjlBTJUVICU6trYOWyhQVpQ)
 
 1. **BOTASHE** - ПНХ
 - [Youtube](https://www.youtube.com/watch?v=tgbCrSimQDQ)
@@ -10,10 +9,10 @@
 2. **Пирятин** - Арта
 - [Youtube](https://www.youtube.com/watch?v=0YCmjyRtNEc)
 
-3 **Cypis** - Putin
+3. **Cypis** - Putin
 - [Youtube](https://www.youtube.com/watch?v=dBqBJ6C5Mkw)
 
-4 **Jockii Druce** - Шо ви браття
+4. **Jockii Druce** - Шо ви браття
 - [Youtube](https://www.youtube.com/watch?v=jFIeP6xb0oE)
 
 5. **Andriy Khlyvnyuk x The Kiffness** - Ой у лузі червона калина (Ukrainian Folk Song 🇺🇦 ARMY REMIX)

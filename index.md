@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Рускій воєнний корабль, іді нахуй
 
 You can use the [editor on GitHub](https://github.com/Coffee-Tea/ua-war-music.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

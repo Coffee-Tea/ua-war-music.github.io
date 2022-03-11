@@ -1,6 +1,8 @@
 ## Рускій воєнний корабль, іді нахуй #russiaInvadesUkraine
 
-### Українська Визвольно-Воєнна Музика - [Playlist Youtube](https://www.youtube.com/watch?v=tgbCrSimQDQ&list=PLwyoJhmuKwgjlBTJUVICU6trYOWyhQVpQ)
+### Українська Визвольно-Воєнна Музика
+
+###[Full Youtube Playlist](https://www.youtube.com/watch?v=tgbCrSimQDQ&list=PLwyoJhmuKwgjlBTJUVICU6trYOWyhQVpQ)
 
 1. **BOTASHE** - ПНХ
 - [Youtube](https://www.youtube.com/watch?v=tgbCrSimQDQ)
@@ -24,7 +26,7 @@
 7. **Karta Svitu** - Крила
 - [Youtube](https://www.youtube.com/watch?v=9Vr7G_dnpkM)
 
-8. **Александр Сычёк** - Русский военный корабль - иди на х@й
+8. **Александр Сычёк** - Русский военный корабль - иди на хуй
 - [Youtube](https://www.youtube.com/watch?v=iRieRJV3veA)
 
 

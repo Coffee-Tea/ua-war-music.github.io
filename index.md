@@ -1,9 +1,7 @@
 ## Рускій воєнний корабль, іді нахуй
+#russiaInvadesUkraine
 
-Збірка актуальної музики під час рашистської війни проти України та українського народу
-
-
-### Список посилань
+Український Визвольно-Воєнний Музичний Збірник
 
 1. **BOTASHE** - ПНХ
 - [Youtube](https://www.youtube.com/watch?v=tgbCrSimQDQ)
@@ -11,6 +9,24 @@
 
 2. **Пирятин** - Арта
 - [Youtube](https://www.youtube.com/watch?v=0YCmjyRtNEc)
+
+3 **Cypis** - Putin
+- [Youtube](https://www.youtube.com/watch?v=dBqBJ6C5Mkw)
+
+4 **Jockii Druce** - Шо ви браття
+- [Youtube](https://www.youtube.com/watch?v=jFIeP6xb0oE)
+
+5. **Andriy Khlyvnyuk x The Kiffness** - Ой у лузі червона калина (Ukrainian Folk Song 🇺🇦 ARMY REMIX)
+- [Youtube](https://www.youtube.com/watch?v=lu8m5FA2nL8)
+
+6. **Христина Соловій** - Українська лють (Bella Ciao cover)
+- [Youtube](https://www.youtube.com/watch?v=PqVCQEthhOU)
+
+7. **Karta Svitu** - Крила
+- [Youtube](https://www.youtube.com/watch?v=9Vr7G_dnpkM)
+
+8. **Александр Сычёк** - Русский военный корабль - иди на х@й
+- [Youtube](https://www.youtube.com/watch?v=iRieRJV3veA)
 
 
 ### Підтримка і допомога

@@ -1,12 +1,15 @@
 ## Рускій воєнний корабль, іді нахуй
 
-You can use the [editor on GitHub](https://github.com/Coffee-Tea/ua-war-music.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Збірка актуальної музики під час рашистської війни проти України та українського народу
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Список посилань
 
-### Markdown
+BOTASHE - ПНХ
+[Youtube](https://www.youtube.com/watch?v=tgbCrSimQDQ)
+[blck.link](https://blck.link/pnh)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Пирятин - Арта
+[Youtube](https://www.youtube.com/watch?v=0YCmjyRtNEc)
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +31,18 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Підтримка і допомога
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coffee-Tea/ua-war-music.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Підтримка ЗСУ:
+- [Рахунок НБУ, доступно для українців та іноземців](https://bank.gov.ua/ua/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+- [Фонд "Повернись Живим", доступно для українців та іноземців](https://savelife.in.ua)
 
-### Support or Contact
+Гуманітарна підтримка для українців:
+- [Рахунок НБУ, доступно для українців та іноземців](https://bank.gov.ua/ua/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Підтримка вебсайту:
+- Скарги та пропозиції надсилати у [Telegram](https://t.me/coffeeteea)
+- Можна пропонувати свої Пулл Реквести
+
+
+

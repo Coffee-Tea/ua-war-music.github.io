@@ -31,6 +31,12 @@
 **Александр Сычёк** - Русский военный корабль - иди на хуй
 - [Youtube](https://www.youtube.com/watch?v=iRieRJV3veA)
 
+**Тарас Боровок** - Байрактар
+- [Youtube](https://www.youtube.com/watch?v=IqknJUC2RnU)
+
+Я русский военный младшего звена
+- [Youtube](https://www.youtube.com/watch?v=Q1LPQTWVYrg)
+
 ***
 
 ### [Full Youtube Playlist](https://www.youtube.com/watch?v=tgbCrSimQDQ&list=PLwyoJhmuKwgjlBTJUVICU6trYOWyhQVpQ)

@@ -37,6 +37,9 @@
 Я русский военный младшего звена
 - [Youtube](https://www.youtube.com/watch?v=Q1LPQTWVYrg)
 
+**BADBOK** - Путін (Пісня про смерть Путіна)
+- [Youtube](https://www.youtube.com/watch?v=qsU8ydFB4yk)
+
 ***
 
 ### [Full Youtube Playlist](https://www.youtube.com/watch?v=tgbCrSimQDQ&list=PLwyoJhmuKwgjlBTJUVICU6trYOWyhQVpQ)

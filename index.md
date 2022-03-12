@@ -40,6 +40,10 @@
 **BADBOK** - Путін (Пісня про смерть Путіна)
 - [Youtube](https://www.youtube.com/watch?v=qsU8ydFB4yk)
 
+
+**Енджі Крейда** - Байрактар (переспів пісні Тараса Боровок)
+- [Youtube](https://www.youtube.com/watch?v=vNoYn8D7or8)
+
 ***
 
 ### [Full Youtube Playlist](https://www.youtube.com/watch?v=tgbCrSimQDQ&list=PLwyoJhmuKwgjlBTJUVICU6trYOWyhQVpQ)

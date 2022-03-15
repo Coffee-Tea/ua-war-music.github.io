@@ -6,50 +6,6 @@
 
 ***
 
-**BOTASHE** - ПНХ
-- [Youtube](https://www.youtube.com/watch?v=tgbCrSimQDQ)
-- [blck.link](https://blck.link/pnh)
-
-**Пирятин** - Арта
-- [Youtube](https://www.youtube.com/watch?v=0YCmjyRtNEc)
-
-**Cypis** - Putin
-- [Youtube](https://www.youtube.com/watch?v=dBqBJ6C5Mkw)
-
-**Jockii Druce** - Шо ви браття
-- [Youtube](https://www.youtube.com/watch?v=jFIeP6xb0oE)
-
-**Andriy Khlyvnyuk x The Kiffness** - Ой у лузі червона калина (Ukrainian Folk Song 🇺🇦 ARMY REMIX)
-- [Youtube](https://www.youtube.com/watch?v=lu8m5FA2nL8)
-
-**Христина Соловій** - Українська лють (Bella Ciao cover)
-- [Youtube](https://www.youtube.com/watch?v=PqVCQEthhOU)
-
-**Karta Svitu** - Крила
-- [Youtube](https://www.youtube.com/watch?v=9Vr7G_dnpkM)
-
-**Александр Сычёк** - Русский военный корабль - иди на хуй
-- [Youtube](https://www.youtube.com/watch?v=iRieRJV3veA)
-
-**Тарас Боровок** - Байрактар
-- [Youtube](https://www.youtube.com/watch?v=IqknJUC2RnU)
-
-Я русский военный младшего звена
-- [Youtube](https://www.youtube.com/watch?v=Q1LPQTWVYrg)
-
-**BADBOK** - Путін (Пісня про смерть Путіна)
-- [Youtube](https://www.youtube.com/watch?v=qsU8ydFB4yk)
-
-
-**Енджі Крейда** - Байрактар (переспів пісні Тараса Боровок)
-- [Youtube](https://www.youtube.com/watch?v=vNoYn8D7or8)
-
-***
-
-### [Full Youtube Playlist](https://www.youtube.com/watch?v=tgbCrSimQDQ&list=PLwyoJhmuKwgjlBTJUVICU6trYOWyhQVpQ)
-
-***
-
 ### Підтримка і допомога
 
 Підтримка ЗСУ:
